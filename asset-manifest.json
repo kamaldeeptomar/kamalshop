@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kamaldeeptomar/kamalshop/static/css/main.819f1557.chunk.css",
+    "main.js": "/kamaldeeptomar/kamalshop/static/js/main.8090c70b.chunk.js",
+    "main.js.map": "/kamaldeeptomar/kamalshop/static/js/main.8090c70b.chunk.js.map",
+    "runtime-main.js": "/kamaldeeptomar/kamalshop/static/js/runtime-main.3ca01ea5.js",
+    "runtime-main.js.map": "/kamaldeeptomar/kamalshop/static/js/runtime-main.3ca01ea5.js.map",
+    "static/js/2.89647134.chunk.js": "/kamaldeeptomar/kamalshop/static/js/2.89647134.chunk.js",
+    "static/js/2.89647134.chunk.js.map": "/kamaldeeptomar/kamalshop/static/js/2.89647134.chunk.js.map",
+    "index.html": "/kamaldeeptomar/kamalshop/index.html",
+    "static/css/main.819f1557.chunk.css.map": "/kamaldeeptomar/kamalshop/static/css/main.819f1557.chunk.css.map",
+    "static/js/2.89647134.chunk.js.LICENSE.txt": "/kamaldeeptomar/kamalshop/static/js/2.89647134.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ca01ea5.js",
+    "static/js/2.89647134.chunk.js",
+    "static/css/main.819f1557.chunk.css",
+    "static/js/main.8090c70b.chunk.js"
+  ]
+}
